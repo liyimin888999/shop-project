@@ -1,0 +1,9 @@
+.btn-add{margin-bottom: 20px;}
+.table-list{table-layout: fixed;}
+.table-list input{display: none;}
+.table-list .btn-ok, .table-list .btn-cancel{display: none;}
+.edit .btn-ok, .edit .btn-cancel{display: inline-block;}
+.edit .btn-edit, .edit .btn-del{display: none;}
+.edit span{display: none;}
+.edit input{display: inline-block;}
+.hidden{display: none;}
